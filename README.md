@@ -1,6 +1,6 @@
 # Simon Game
 
-The famous "Simon" game, built for web using HTML, CSS and jQuery.
+The famous "Simon" game, built for web using ***HTML, CSS and jQuery***.
 
 # Rules to play
 
